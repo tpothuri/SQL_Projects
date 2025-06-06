@@ -10,7 +10,9 @@ A beginner-friendly SQL project that explores and analyzes the Netflix catalog u
 4. Classify and filter content using specific keywords and criteria to explore thematic and qualitative aspects of the catalog.
 ---
 ## 📁 Dataset Source
+
 The data for this project is sourced from the Kaggle dataset:
+
 Dataset Link: Movies Dataset(https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 ## Schema
@@ -323,10 +325,10 @@ The analysis reveals a well-balanced distribution between movies and TV shows on
 **Content Ratings**:
 The identification of the most frequent content ratings offers valuable insights into Netflix's content curation strategies and the intended demographic segments, indicating a strong focus on age-appropriate content.
 
-** 🌍 Geographical Insights**:
+🌍 **Geographical Insights**:
 Regional analysis highlights key content-producing countries, with India showing a notable contribution. Trends in release volumes by country and year shed light on global content acquisition and localization efforts.
 
-** 🧠 Content Categorization**:
+🧠 **Content Categorization**:
 Keyword-based classification enables a thematic understanding of the available content, facilitating the assessment of narrative tone, subject matter, and genre diversity across the platform.
 
 ## Conclusion
