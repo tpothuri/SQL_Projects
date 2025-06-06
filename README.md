@@ -1,5 +1,7 @@
 # 📊 Netflix Movies and TV Shows Data Analysis using SQL 
 
+![Netflix_Logo](https://github.com/tpothuri/SQL_Projects/blob/main/logo.png)
+
 ## Overview
 A beginner-friendly SQL project that explores and analyzes the Netflix catalog using PostgreSQL queries. This repository covers different business perspectives such as content strategy, regional insights, trend analysis, talent insights, and content quality classification.
 
