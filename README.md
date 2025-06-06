@@ -321,16 +321,16 @@ GROUP BY category;
 
 ---
 ## Findings
-**Content Distribution**:
+**1. Content Distribution**:
 The analysis reveals a well-balanced distribution between movies and TV shows on Netflix, reflecting the platform’s effort to cater to a broad audience with diverse viewing preferences.
 
-**Content Ratings**:
+**2. Content Ratings**:
 The identification of the most frequent content ratings offers valuable insights into Netflix's content curation strategies and the intended demographic segments, indicating a strong focus on age-appropriate content.
 
-🌍 **Geographical Insights**:
+**3. Geographical Insights**:
 Regional analysis highlights key content-producing countries, with India showing a notable contribution. Trends in release volumes by country and year shed light on global content acquisition and localization efforts.
 
-🧠 **Content Categorization**:
+**4. Content Categorization**:
 Keyword-based classification enables a thematic understanding of the available content, facilitating the assessment of narrative tone, subject matter, and genre diversity across the platform.
 
 ## Conclusion
