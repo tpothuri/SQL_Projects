@@ -19,7 +19,7 @@ Each project is organized in a **separate branch** for modularity and clarity.
 | Branch Name           | Description                                           |
 |-----------------------|-------------------------------------------------------|
 | `main`                | Overview and instructions for the repo               |
-| `netflix_SQL`        | Netflix Movies & TV Shows Data Analysis              |
+| `Netflix Movies and TV Shows Data Analysis using SQL`        | Netflix Movies & TV Shows Data Analysis              |
 
 > 💡 Each branch contains its own `README.md` with setup instructions, dataset source, schema info, and key query results.
 
