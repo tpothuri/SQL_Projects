@@ -1,6 +1,6 @@
 # 📊 Netflix Movies and TV Shows Data Analysis using SQL 
 
-![Netflix_Logo](https://raw.githubusercontent.com/tpothuri/SQL_Projects/main/logo.png)
+![Netflix_Logo](https://github.com/tpothuri/SQL_Projects/blob/Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL/logo.png)
 
 ## Overview
 A beginner-friendly SQL project that explores and analyzes the Netflix catalog using PostgreSQL queries. This repository covers different business perspectives such as content strategy, regional insights, trend analysis, talent insights, and content quality classification.
@@ -15,7 +15,7 @@ A beginner-friendly SQL project that explores and analyzes the Netflix catalog u
 
 The data for this project is sourced from the Kaggle dataset:
 
-Dataset Link: ![Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+Dataset Link: [Movies Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Schema
 ```sql
